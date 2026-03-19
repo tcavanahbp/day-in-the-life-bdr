@@ -1,5 +1,7 @@
 # BDR Day in the Life Playbook
 
+See it live here - https://tcavanahbp.github.io/day-in-the-life-bdr/
+
 ## Purpose
 The "BDR Day in the Life" playbook is designed to provide a comprehensive overview of the daily tasks, responsibilities, and best practices for Business Development Representatives (BDRs). This playbook serves as a guide to help BDRs maximize their productivity and effectiveness in their roles.
 
